@@ -81,7 +81,6 @@ for (let i=0; i<elementos.length; i++){
     t.target.style.opacity = 1;
     playerOption = t.target.getAttribute('option')
     inimigoJogar();
-    object.reload(forcedReload);
     
   }))
 }
